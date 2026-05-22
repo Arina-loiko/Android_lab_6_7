@@ -6,6 +6,10 @@
 
 Приложение для расчёта чаевых на Android с использованием Jetpack Compose
 
+## Скриншот
+
+![App Screenshot](screenshots/app_screenshot.png)
+
 ## Функциональность
 
 - Ввод суммы счёта и процента чаевых
@@ -19,3 +23,7 @@
 - Material Design 3
 - State Hoisting
 - Unit-тесты и UI-тесты
+
+## Как запустить
+
+Открыть проект в Android Studio и запустить на эмуляторе или устройстве
